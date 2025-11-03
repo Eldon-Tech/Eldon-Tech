@@ -7,9 +7,8 @@ An aspiring IT Support Specialist with a CompTIA A+ certification and hands-on e
 I enjoy learning how systems connect, supporting users, and finding efficient solutions to everyday technical challenges. My goal is to grow into a System Administrator role while continuing to learn and document my journey here on GitHub.
 
 ## Certifications 
-[![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-red?style=for-the-badge&logo=comptia&logoColor=red)](https://github.com/<Eldon-Tech>/<repo-name>/blob/main/CompTIA-Aplus-Cert.pdf)
+[![A+](https://img.shields.io/badge/A%2B-red?style=for-the-badge)](https://github.com/<your-username>/<repo-name>/blob/main/Aplus-Cert.pdf)
   
 ## Skills
-| Skill                              | Associated Project      |
-|------------------------------------|-------------------------|
+
 
