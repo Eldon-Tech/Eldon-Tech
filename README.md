@@ -1,7 +1,7 @@
-## Hi, I'm Eldon Jannamon
+# Hi, I'm Eldon Jannamon 
 <a href="https://linkedin.com/in/eldonjannamon"><img src="https://img.shields.io/badge/-linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-IT Support Speciallist | Desktop Support Technician
+
 
 ## About Me
 An aspiring IT Support Specialist with a CompTIA A+ certification and hands-on experience in troubleshooting hardware, software, and network issues.  I’m currently earning my Associate of Applied Science in Information Technology and building my skills through home lab projects.  
