@@ -1,4 +1,6 @@
 ## Hi, I'm Eldon Jannamon
+<a href="https://linkedin.com/in/eldonjannamon"><img src="https://img.shields.io/badge/-linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 IT Support Speciallist | Desktop Support Technician
 
 ## About Me
